@@ -16,74 +16,52 @@
           {
             "group": "Get Started",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+              "guide/introduction"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Use Cases",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
+              "guide/compromise-detection",
+              "guide/inbound-enrichment",
+              "guide/pivoting-analysis"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Quick Start",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "guide/account&limites",
+              "guide/research",
+              "guide/chat"
+            ]
+          },
+          {
+            "group": "Our CTI Data",
+            "pages": [
+              "guide/overview",
+              "guide/differentiator",
+              "api-reference/feeds_introduction"
+            ]
+          },
+          {
+            "group": "Knowledge Hub",
+            "pages": [
+              "guide/threat-labels"
             ]
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
-    "light": "/logo/logo_1.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/logo_light.svg",
+    "dark": "/logo/logo_dark.svg"
   },
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Contact us",
+        "href": "https://i.secai.ai/contact_us"
       }
     ],
     "primary": {
