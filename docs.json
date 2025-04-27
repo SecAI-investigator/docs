@@ -55,7 +55,8 @@
   },
   "logo": {
     "light": "/logo/logo_light.svg",
-    "dark": "/logo/logo_dark.svg"
+    "dark": "/logo/logo_dark.svg",
+    "href": "https://i.secai.ai/research/"
   },
   "navbar": {
     "links": [
