@@ -4,8 +4,8 @@
   "name": "SecAI Investigator Documentation",
   "colors": {
     "primary": "#CC0000",
-    "light": "#07C983",
-    "dark": "#CC0000"
+    "light": "#eb2d17",
+    "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -74,7 +74,7 @@
   "footer": {
     "socials": {
       "x": "https://x.com/secai_ai",
-      "discord": "https://discord.gg/suGWmKkm",
+      "discord": "https://discord.gg/MQpzCjjgy8",
       "linkedin": "https://www.linkedin.com/company/secai-ai/"
     }
   }
