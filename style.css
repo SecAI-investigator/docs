@@ -32,4 +32,8 @@ a[href="https://i.secai.ai/contact_us"] {
   --primary-dark: 26 26 26;
 }
 
+table th {
+  text-align: left;
+}
+
 
