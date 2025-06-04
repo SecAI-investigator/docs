@@ -30,7 +30,7 @@
           {
             "group": "Quick Start",
             "pages": [
-              "guide/account&limits",
+              "guide/account-limits",
               "guide/research",
               "guide/chat"
             ]
