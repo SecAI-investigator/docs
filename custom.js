@@ -4,8 +4,8 @@ const contactBtn = document.querySelector('a[href="https://i.secai.ai/contact_us
 contactBtn.classList.add('hs-cta-trigger-button', 'hs-cta-trigger-button-189188848506');
 
 const downloadUrl = {
-  download_ioc: '/images/SECAI_IOC_Sample.json',
-  download_ip: '/images/SECAI_IP_Reputation_Sample.json'
+  download_ioc: 'https://img.secai.ai/img-secai/SECAI_IOC_Sample.json',
+  download_ip: 'https://img.secai.ai/img-secai/SECAI_IP_Reputation_Sample.json'
 }
 
 function downloadFile(id) {
